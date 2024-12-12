@@ -184,7 +184,7 @@
         {
           "page": 1,
           "text": "SpongeBob he was playing with his best friend Patrick certainty their come a lot of tension and he wanted to attack SpongeBob and Patrick",
-          "image": "/src/assets/fallback.jpg",
+          "image": "https://res.cloudinary.com/dhxwg8gcz/image/upload/v1734016865/ofphhentxwuqnsolgmud.jpg",
           "audio": null,
           "imageFileName": "",
           "audioFileName": "",
@@ -200,7 +200,7 @@
         {
           "page": 2,
           "text": "Suddenly there are dinosaurs coming and then the dinosaurs wanted to attack SpongeBob",
-          "image": "/src/assets/fallback.jpg",
+          "image": "https://res.cloudinary.com/dhxwg8gcz/image/upload/v1734016876/bnzm5zid4gnoiwmilnvh.jpg",
           "audio": null,
           "imageFileName": "",
           "audioFileName": "",
