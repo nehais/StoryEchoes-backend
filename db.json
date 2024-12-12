@@ -183,7 +183,23 @@
       "content": [
         {
           "page": 1,
-          "text": "Arav write a story",
+          "text": "SpongeBob he was playing with his best friend Patrick certainty their come a lot of tension and he wanted to attack SpongeBob and Patrick",
+          "image": "/src/assets/fallback.jpg",
+          "audio": null,
+          "imageFileName": "",
+          "audioFileName": "",
+          "mediaUrl": null,
+          "imageError": null,
+          "audioError": null,
+          "mediaUrlError": null,
+          "isPlaying": false,
+          "audioInstance": null,
+          "isGenerating": false,
+          "imageGenerated": false
+        },
+        {
+          "page": 2,
+          "text": "Suddenly there are dinosaurs coming and then the dinosaurs wanted to attack SpongeBob",
           "image": "/src/assets/fallback.jpg",
           "audio": null,
           "imageFileName": "",
@@ -199,32 +215,6 @@
         }
       ],
       "id": "8tXTdyv",
-      "liked": false,
-      "readCount": 1
-    },
-    {
-      "title": "Lion and the clever mouse",
-      "author": "Arav",
-      "front_cover": "https://res.cloudinary.com/dhxwg8gcz/image/upload/v1733770378/zyb8yoqdg6iruhnxtz43.png",
-      "content": [
-        {
-          "page": 1,
-          "text": "Arav writes again we write a story",
-          "image": "/src/assets/fallback.jpg",
-          "audio": null,
-          "imageFileName": "",
-          "audioFileName": "",
-          "mediaUrl": null,
-          "imageError": null,
-          "audioError": null,
-          "mediaUrlError": null,
-          "isPlaying": false,
-          "audioInstance": null,
-          "isGenerating": false,
-          "imageGenerated": false
-        }
-      ],
-      "id": "8tXTdxx",
       "liked": false,
       "readCount": 1
     }
