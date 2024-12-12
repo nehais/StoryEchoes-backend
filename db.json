@@ -136,47 +136,6 @@
       "liked": false
     },
     {
-      "title": "Dino in the school",
-      "author": "Tolli",
-      "front_cover": "https://res.cloudinary.com/dhxwg8gcz/image/upload/v1733685244/zdc5titoz5bvxhk2yrvf.png",
-      "content": [
-        {
-          "page": 1,
-          "text": "There was once a little dinosaur. He was happy to start his school",
-          "image": "https://res.cloudinary.com/dhxwg8gcz/image/upload/v1733618271/edjg8mehuxabrvmvavio.jpg",
-          "audio": null,
-          "imageFileName": "",
-          "audioFileName": "",
-          "mediaUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-          "imageError": null,
-          "audioError": null,
-          "mediaUrlError": null,
-          "isPlaying": false,
-          "audioInstance": null,
-          "isGenerating": false,
-          "imageGenerated": true
-        },
-        {
-          "page": 2,
-          "text": "The dinosaur was happy to meet new friends",
-          "image": "https://res.cloudinary.com/dhxwg8gcz/image/upload/v1733618350/zevkgzq8mwv7v0j7uyd1.jpg",
-          "audio": null,
-          "mediaUrl": null,
-          "imageError": null,
-          "audioError": null,
-          "mediaUrlError": null,
-          "isPlaying": false,
-          "audioInstance": null,
-          "isGenerating": false,
-          "newlyAdded": true,
-          "imageGenerated": true
-        }
-      ],
-      "id": "aybdi4x",
-      "liked": false,
-      "readCount": 2
-    },
-    {
       "title": "SpongeBob and Friends",
       "author": "Arav",
       "front_cover": "https://res.cloudinary.com/dhxwg8gcz/image/upload/v1733769262/t5tmdwlinumqwnhkck2v.png",
