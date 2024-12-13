@@ -12,7 +12,7 @@ https://github.com/priya337/StoryEchoes
 ## How to setup the project
 
 - Git clone the below project</br>
-https://github.com/priya337/StoryEchoes
+https://github.com/nehais/StoryEchoes-backend.git
 
 - run "npm i" to install the packages
 
